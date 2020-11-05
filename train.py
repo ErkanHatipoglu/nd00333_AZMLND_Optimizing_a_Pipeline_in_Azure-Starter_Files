@@ -77,5 +77,10 @@ def main():
     accuracy = model.score(x_test, y_test)
     run.log("Accuracy", np.float(accuracy))
 
+    # https://knowledge.udacity.com/questions/357007
+    os.makedirs('outputs', exist_ok=True)
+    joblib.dump(model, 'outputs/model.joblib')
+
+
 if __name__ == '__main__':
     main()
