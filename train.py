@@ -48,6 +48,9 @@ def clean_data(data):
 # Data is located at:
 # "https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv"
 
+# https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters
+# https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn/train_iris.py
+
 web_path = ['https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv']
 ds = TabularDatasetFactory.from_delimited_files(path=web_path)
 
