@@ -169,5 +169,5 @@ I have used Microsoft documentation and the Udacity knowledge platform extensive
 
 * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)
 * [Azure Machine Learning documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
-* [Udacity Knowlege Platform](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py)
-* [Azure Machine Learning SDK](https://knowledge.udacity.com/?nanodegree=nd00333&page=1&project=766&rubric=2925)
+* [Azure Machine Learning SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py)
+* [Udacity Knowlege Platform](https://knowledge.udacity.com/?nanodegree=nd00333&page=1&project=766&rubric=2925)
